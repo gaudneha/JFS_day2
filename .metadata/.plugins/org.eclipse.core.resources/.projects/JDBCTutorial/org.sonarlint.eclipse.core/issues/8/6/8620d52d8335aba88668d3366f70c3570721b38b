@@ -1,0 +1,16 @@
+
+t
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(…œ‚·8ÏÃ®Ï³/HRBLOCKERZBUG
+z
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ùÃ´³ýÿÿÿÿ8ÏÃ®Ï³/HRBLOCKERZBUG
+m	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8ÏÃ®Ï³/HRMAJORZ
+CODE_SMELL
+h
+java:S1135 "2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ÏÃ®Ï³/HRINFOZ
+CODE_SMELL
+h
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ÏÃ®Ï³/H
+RINFOZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ò¥à’8ÏÃ®Ï³/HRMAJORZ
+CODE_SMELL

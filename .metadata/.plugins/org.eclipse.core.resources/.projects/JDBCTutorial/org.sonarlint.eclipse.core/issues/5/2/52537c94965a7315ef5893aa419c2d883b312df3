@@ -1,0 +1,15 @@
+
+m	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8†³šĞ³/H=RMAJORZ
+CODE_SMELL
+h
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8†³šĞ³/HBRINFOZ
+CODE_SMELL
+z
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ùÃ´³ıÿÿÿÿ8†³šĞ³/HERBLOCKERZBUG
+o	java:S106"9Replace this use of System.out or System.err by a logger.(¬…‰¬ÿÿÿÿÿ8†³šĞ³/HCRMAJORZ
+CODE_SMELL
+h
+java:S1135!"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8†³šĞ³/HDRINFOZ
+CODE_SMELL
+t
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(…œ‚·8†³šĞ³/HFRBLOCKERZBUG

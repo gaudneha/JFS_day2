@@ -1,0 +1,46 @@
+JDBC 
+	-> Jdbc stands for Java Database Connectivity which is a standard Java API
+           for database independent connectivity between the Java programming language
+
+Application of JDBC:
+
+	->Java Applications
+	->Java Applets
+	->Java Servlets
+	->Java ServerPages
+	->EnterPrise JavaBeans
+
+Operations to do :
+
+	->Creata Java Applications
+	->Inserting recorde into database
+	->Update records into database
+	->Delete records into database
+	->Reading records into database
+
+Java Drivers:
+	4 types of Java drivers
+		1.Jdbc-ODBC bridge driver
+		2.Native API driver
+		3.Network protocol driver
+		4.Pure Java driver
+-------------------------------------------------------------------------
+	JDBC URL:
+		->Jdbc URL is string which consists the information about the driver type and database details to which the java app needs to connect
+
+	 The String Contains
+			1.Jdbc protocol
+			2.DB name
+			3.Hostname or IP address 
+			4.Database Port Number
+			5.Database System ID
+
+-------------------------------------------------------------------------
+	JDBC API :
+		->Driver Manager Class
+		->Connection Interface
+		->Statement Interface
+		->Resultset Interface
+		->Prepared Statement
+		->Callable Statement
+		
